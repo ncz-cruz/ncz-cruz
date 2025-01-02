@@ -7,7 +7,7 @@
  
  Agora no mundo de Teste de Software e QA, procuro projetos onde posso me desafiar e aprender cada vez mais nessa área tão vital e complexa no mundo em que vivemos.
 
- ...
+ ---
 
  ### 💡 Linguagens e Tecnologias
 
