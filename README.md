@@ -2,7 +2,7 @@
 
  **`Software tester || QA`**
 
- Sou Nicolas Carvalho Coelho da Cruz, 21 anos, residente em São Paulo, atualmente no 7º semestre do curso de Nutrição pela UNIP. 
+ Sou Nicolas Carvalho Coelho da Cruz, 21 anos, residente em São Paulo, e atualmente cursando o 7º semestre de Nutrição pela UNIP. 
  Militar do Exército Brasileiro desde 2022.
  
  Agora no mundo de Teste de Software e QA, procuro projetos onde posso me desafiar e aprender cada vez mais nessa área tão vital e complexa no mundo em que vivemos.
