@@ -32,10 +32,18 @@
 
   <img 
     align="left" 
-    alt="AZURE" 
-    title="AZURE"
+    alt="GitHubCodeSpaces" 
+    title="GitHubCodeSpaces"
     width="30px" 
     style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"       />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
+   />
           
+  <img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  />
           
