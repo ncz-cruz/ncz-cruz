@@ -1,4 +1,4 @@
-# 🧬 Nicolas Cruz
+# 🧬 Nicolas Cruz 🧬
 
  **`Software tester || QA`**
 
