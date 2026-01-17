@@ -1,10 +1,8 @@
 # 🧬 Nicolas Cruz 🧬
 
- **`Software tester || QA`**
+ **`QA Analyst`**
 
- Sou Nicolas Carvalho Coelho da Cruz, 21 anos, residente em São Paulo, e atualmente trabalhando como Analista de Teste Jr. na empresa Develoci.
- 
- Meu objetivo é  contribuir para a excelência e a qualidade dos produtos de software, garantindo a entrega de soluções eficientes e confiáveis. Estou comprometido em utilizar minhas habilidades analíticas e técnicas para identificar e resolver problemas, melhorar processos e assegurar a satisfação do cliente.
+I’m a 22-year-old QA Analyst at Develoci, driven by a commitment to software quality and excellence. I focus on delivering efficient, reliable solutions through technical problem-solving and process improvement, ensuring that every product meets the highest standards of customer satisfaction.
  ---
 
  ### 💡 Linguagens e Tecnologias
