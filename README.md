@@ -1,4 +1,4 @@
-# 🧬 Nicolas Cruz 🧬
+#  Nicolas Cruz 
 
  **`QA Analyst`**
 
