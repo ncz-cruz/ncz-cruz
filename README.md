@@ -123,3 +123,47 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     />
+<img 
+    align="left" 
+    alt="Jenkins (white)" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg"
+    />
+
+<img 
+    align="left" 
+    alt="Katalon Studio (white)" 
+    title="Katalon Studio"
+    width="30px" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);"
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/Katalon-logo-vector.svg"
+    />
+
+<img 
+    align="left" 
+    alt="Google Antigravity (white)" 
+    title="Google Antigravity"
+    width="30px" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);"
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/Google_Antigravity_Logo.svg"
+    />
+
+<img 
+    align="left" 
+    alt="VS Code (white)" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg"
+    />
+
+<img 
+    align="left" 
+    alt="Appium (white)" 
+    title="Appium"
+    width="30px" 
+    style="padding-right: 10px; filter: brightness(0) invert(1);"
+    src="https://cdn.simpleicons.org/appium/ffffff"
+    />
